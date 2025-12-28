@@ -1,0 +1,14 @@
+column_name,description,raw_output
+Rank,"Represents the sales ranking of the video games based on total sales, with lower numbers indicating higher sales.","Rank: Represents the sales ranking of the video games based on total sales, with lower numbers indicating higher sales."
+Name,"Indicates the title of the video game, such as 'Wii Sports' or 'Super Mario Bros.', used to identify the game.","Name: Indicates the title of the video game, such as 'Wii Sports' or 'Super Mario Bros.', used to identify the game."
+Platform,"Specifies the gaming platform on which the game was released, with examples including 'Wii' and 'NES'.","Platform: Specifies the gaming platform on which the game was released, with examples including 'Wii' and 'NES'."
+Year,"Indicates the year when the game was released, with example values like '2006' and '1985'.","Year: Indicates the year when the game was released, with example values like '2006' and '1985'."
+Genre,"Describes the type of game, classified into categories such as 'Sports', 'Platform', or 'Racing'.","Genre: Describes the type of game, classified into categories such as 'Sports', 'Platform', or 'Racing'."
+Publisher,"Identifies the company that published the game, with 'Nintendo' being a common example across the dataset.","Publisher: Identifies the company that published the game, with 'Nintendo' being a common example across the dataset."
+NA_Sales,"Contains the sales figures for North America, represented as numeric values indicating millions sold, like '41.49'.","NA_Sales: Contains the sales figures for North America, represented as numeric values indicating millions sold, like '41.49'."
+EU_Sales,"Represents the sales figures for Europe, denoted in millions, with example values such as '29.02'.","EU_Sales: Represents the sales figures for Europe, denoted in millions, with example values such as '29.02'."
+JP_Sales,"Captures the sales figures for Japan, also in millions, with sample values like '3.77'.","JP_Sales: Captures the sales figures for Japan, also in millions, with sample values like '3.77'."
+Other_Sales,"Represents the sales figures of video games in markets outside of North America and Europe, measured in millions.","Other_Sales: Represents the sales figures of video games in markets outside of North America and Europe, measured in millions."
+Global_Sales,"Indicates the total sales of video games across all regions, also measured in millions, showing the overall performance of the game.","Global_Sales: Indicates the total sales of video games across all regions, also measured in millions, showing the overall performance of the game."
+[TOTAL_TOKENS],1248,
+[TIME_ELAPSED_SECONDS],16.83,

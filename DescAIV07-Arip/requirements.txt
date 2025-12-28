@@ -1,0 +1,22 @@
+# CSV & data handling
+pandas>=2.0.0
+numpy>=1.25.0
+
+# Token counting & LLM prompt utilities
+tiktoken>=0.6.0
+transformers>=4.40.0
+
+# Progress bar
+tqdm>=4.65.0  # for progress bars
+ipython>=8.0.0  # for interactive use and Jupyter compatibility
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# LLM interaction
+openai>=0.27.0  # for OpenAI API access
+
+# Database interaction
+psycopg2-binary>=2.9.0  # for PostgreSQL connection
+sqlalchemy>=2.0.0  # for database interaction
+jaydebeapi>=1.2.0  # for JDBC connection to Denodo

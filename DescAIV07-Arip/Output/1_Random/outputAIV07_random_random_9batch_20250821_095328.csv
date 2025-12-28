@@ -1,0 +1,14 @@
+column_name,description,raw_output
+Rank,"Indicates the sales ranking of the video games, with '1' being the best-selling game.","Rank: Indicates the sales ranking of the video games, with '1' being the best-selling game."
+Name,"Represents the title of the video game, such as 'Wii Sports' or 'Super Mario Bros.'.","Name: Represents the title of the video game, such as 'Wii Sports' or 'Super Mario Bros.'."
+Platform,"Specifies the gaming console on which the game is available, including platforms like 'Wii' and 'NES'.","Platform: Specifies the gaming console on which the game is available, including platforms like 'Wii' and 'NES'."
+Year,"Denotes the year the game was released, with example years like '2006' and '1985'.","Year: Denotes the year the game was released, with example years like '2006' and '1985'."
+Genre,"Categorizes the game into a specific type, such as 'Sports' or 'Role-Playing'.","Genre: Categorizes the game into a specific type, such as 'Sports' or 'Role-Playing'."
+Publisher,"Identifies the company that published the game, with 'Nintendo' being a common example.","Publisher: Identifies the company that published the game, with 'Nintendo' being a common example."
+NA_Sales,"Reflects the sales figures in North America, indicating strong sales like '41.49' million units.","NA_Sales: Reflects the sales figures in North America, indicating strong sales like '41.49' million units."
+EU_Sales,"Shows the sales figures in Europe, with values such as '29.02' million units illustrating varying popularity.","EU_Sales: Shows the sales figures in Europe, with values such as '29.02' million units illustrating varying popularity."
+JP_Sales,"Captures the sales figures in Japan, representing localized success with figures like '3.77' million units.","JP_Sales: Captures the sales figures in Japan, representing localized success with figures like '3.77' million units."
+Other_Sales,"This column represents sales figures for video games in regions other than the North America, Europe, or Japan, indicated by example values like '8.46'.","Other_Sales: This column represents sales figures for video games in regions other than the North America, Europe, or Japan, indicated by example values like '8.46'."
+Global_Sales,"This column captures the total sales of video games worldwide, as exemplified by values such as '82.74', and is likely derived from the combination of regional sales including Other_Sales.","Global_Sales: This column captures the total sales of video games worldwide, as exemplified by values such as '82.74', and is likely derived from the combination of regional sales including Other_Sales."
+[TOTAL_TOKENS],1243,
+[TIME_ELAPSED_SECONDS],6.03,

@@ -1,0 +1,5 @@
+python main.py --csv_path Data/HouseSaleData_81c.csv --batch_size 9
+python main.py --csv_path Data/HouseSaleData_81c.csv --strategy consecutive --batch_size 9
+python main.py --batch_size 9
+
+
